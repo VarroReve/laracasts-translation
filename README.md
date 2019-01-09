@@ -1,7 +1,9 @@
 # laracasts-translation
 laracasts 系列视频教程中文字幕版。
 
-目前正在翻译第一个系列教程 Be Awesome In PhpStorm，在优酷网持续更新，没有加上超链接的章节代表尚未翻译，完成后会翻译该系列的其他课程。
+大家可能已经接触过  [Laracasts](https://laracasts.com/)，里面有许多非常实用的视频教程。但由于是国外网站、部分视频付费、英语解说，Laracasts 系列视频教程在国内资源很少。所以自己开始翻译这个视频系列。目前只翻译了  [Be Awesome In PhpStorm](https://laracasts.com/series/how-to-be-awesome-in-phpstorm)  的前几集，不过我每周都会更新（龟速）。
+
+目前只翻译了  [Be Awesome In PhpStorm](https://laracasts.com/series/how-to-be-awesome-in-phpstorm)  的前几集，不过我每周都会更新（龟速）。没有加上超链接的章节代表尚未翻译，完成后会翻译该系列的其他课程。
 
 欢迎star、留言、指正，或加入我。
 
