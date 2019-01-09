@@ -5,6 +5,8 @@ laracasts 系列视频教程中文字幕版。
 
 欢迎star、留言、指正，或加入我。
 
+email：542109010@qq.com
+
 #### [Be Awesome In PhpStorm](https://v.youku.com/v_show/id_XMzk5OTc0MzkyMA==.html?spm=a2hzp.8253876.0.0&f=52028682)
 
 - [EPISODE 1 - Hello](https://v.youku.com/v_show/id_XMzk5OTc0MzkyMA==.html?spm=a2h0j.11185381.listitem_page1.5!4~A)
