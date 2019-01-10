@@ -12,12 +12,12 @@ email：542109010@qq.com
 
 欢迎 star、留言、指正，或加入我。
 
-#### [Be Awesome In PhpStorm](https://v.youku.com/v_show/id_XMzk5OTc0MzkyMA==.html?spm=a2hzp.8253876.0.0&f=52028682)
+#### [Be Awesome In PhpStorm](https://www.bilibili.com/video/av40402216/)
 
-- [EPISODE 1 - Hello](https://v.youku.com/v_show/id_XMzk5OTc0MzkyMA==.html?spm=a2h0j.11185381.listitem_page1.5!4~A)
-- [EPISODE 2 - Minimalism](https://v.youku.com/v_show/id_XNDAwNDg2Nzc4OA==.html?spm=a2h0j.11185381.listitem_page1.5!2~A)
+- [EPISODE 1 - Hello](https://www.bilibili.com/video/av40402216/)
+- [EPISODE 2 - Minimalism](https://www.bilibili.com/video/av40404921/)
 - [EPISODE 3 - Color IDE](https://www.bilibili.com/video/av40373744/)
-- [EPISODE 4 - Two Important Keybindings](https://v.youku.com/v_show/id_XNDAwNDk1NTI5Ng==.html?spm=a2h3j.8428770.3416059.1)
+- [EPISODE 4 - Two Important Keybindings](https://www.bilibili.com/video/av40405488/)
 - [EPISODE 5 - Create New Files Quickly](https://www.bilibili.com/video/av40376367/)
 - EPISODE 6 - Custom File 
 - EPISODE 7 - Live Templates
