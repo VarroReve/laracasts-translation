@@ -1,5 +1,5 @@
 #### 介绍
-大家可能已经接触过  [Laracasts](https://laracasts.com/)，里面有许多非常实用的视频教程。但由于是国外网站、部分视频付费、英语解说，Laracasts 系列视频教程在国内资源很少。所以自己开始翻译这个视频系列。
+大家可能已经接触过 [Laracasts](https://laracasts.com/)，它是 Laravel 框架的作者 Taylor Otwell 创办的视频教学网站，涵盖了 Laravel、Vue、IDE、Testing 等前沿技术。由于是国外网站、部分视频付费、英语解说，Laracasts 系列视频教程在国内资源很少，所以自己开始翻译这个视频系列。若喜欢该系列视频，可去该网站订阅后下载该系列视频，**支持正版**。
 
 目前只翻译了  [Be Awesome In PhpStorm](https://laracasts.com/series/how-to-be-awesome-in-phpstorm)  的前几集，不过我每周都会更新（龟速）。没有加上超链接的章节代表尚未翻译，完成后会翻译该系列的其他课程。
 
@@ -7,9 +7,9 @@
 #### 项目地址
  [laracasts-translation](https://github.com/SakyaVarro/laracasts-translation)
 
+#### 联系方式
 email：542109010@qq.com
-
-欢迎star、留言、指正，或加入我。
+欢迎 star、留言、指正，或加入我。
 
 #### [Be Awesome In PhpStorm](https://v.youku.com/v_show/id_XMzk5OTc0MzkyMA==.html?spm=a2hzp.8253876.0.0&f=52028682)
 
