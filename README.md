@@ -12,14 +12,14 @@ email：542109010@qq.com
 
 欢迎 star、留言、指正，或加入我。
 
-#### [Be Awesome In PhpStorm](https://www.bilibili.com/video/av40402216/)
+#### [Be Awesome In PhpStorm](https://www.bilibili.com/video/av40402216)
 
-- [EPISODE 1 - Hello](https://www.bilibili.com/video/av40402216/)
+- [EPISODE 1 - Hello](https://www.bilibili.com/video/av40402216/?p=1)
 - [EPISODE 2 - Minimalism](https://www.bilibili.com/video/av40404921/)
-- [EPISODE 3 - Color IDE](https://www.bilibili.com/video/av40373744/)
+- [EPISODE 3 - Color IDE](https://www.bilibili.com/video/av40402216/?p=2)
 - [EPISODE 4 - Two Important Keybindings](https://www.bilibili.com/video/av40405488/)
-- [EPISODE 5 - Create New Files Quickly](https://www.bilibili.com/video/av40376367/)
-- EPISODE 6 - Custom File 
+- [EPISODE 5 - Create New Files Quickly](https://www.bilibili.com/video/av40402216/?p=3)
+- [EPISODE 6 - Custom File](https://www.bilibili.com/video/av40402216/?p=4) 
 - EPISODE 7 - Live Templates
 - EPISODE 8 - Custom Formatting
 - EPISODE 9 - Refactoring: Name and Method
