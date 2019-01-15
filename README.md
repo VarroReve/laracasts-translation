@@ -15,11 +15,11 @@ email：542109010@qq.com
 #### [Be Awesome In PhpStorm](https://www.bilibili.com/video/av40402216)
 
 - [EPISODE 1 - Hello](https://www.bilibili.com/video/av40402216/?p=1)
-- [EPISODE 2 - Minimalism](https://www.bilibili.com/video/av40404921/)
-- [EPISODE 3 - Color IDE](https://www.bilibili.com/video/av40402216/?p=2)
-- [EPISODE 4 - Two Important Keybindings](https://www.bilibili.com/video/av40405488/)
-- [EPISODE 5 - Create New Files Quickly](https://www.bilibili.com/video/av40402216/?p=3)
-- [EPISODE 6 - Custom File](https://www.bilibili.com/video/av40402216/?p=4) 
+- [EPISODE 2 - Minimalism](https://www.bilibili.com/video/av40402216/?p=2)
+- [EPISODE 3 - Color IDE](https://www.bilibili.com/video/av40402216/?p=3)
+- [EPISODE 4 - Two Important Keybindings](https://www.bilibili.com/video/av40402216/?p=4)
+- [EPISODE 5 - Create New Files Quickly](https://www.bilibili.com/video/av40402216/?p=5)
+- [EPISODE 6 - Custom File](https://www.bilibili.com/video/av40402216/?p=6) 
 - EPISODE 7 - Live Templates
 - EPISODE 8 - Custom Formatting
 - EPISODE 9 - Refactoring: Name and Method
