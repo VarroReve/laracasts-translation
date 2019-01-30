@@ -21,7 +21,7 @@ email：542109010@qq.com
 - [EPISODE 5 - Create New Files Quickly](https://www.bilibili.com/video/av40402216/?p=5)
 - [EPISODE 6 - Custom File](https://www.bilibili.com/video/av40402216/?p=6) 
 - [EPISODE 7 - Live Templates](https://www.bilibili.com/video/av40402216/?p=7) 
-- EPISODE 8 - Custom Formatting
+- [EPISODE 8 - Custom Formatting](https://www.bilibili.com/video/av40402216/?p=8)
 - EPISODE 9 - Refactoring: Name and Method
 - EPISODE 10 - Refactoring: Pull Up
 - EPISODE 11 - Refactoring: Extract Interface
